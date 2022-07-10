@@ -1,0 +1,62 @@
+body{
+	background-color: antiquewhite;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+}
+header center h1{
+	color:orangered;
+}
+.login{
+	background-color: orange;
+	margin: 25px auto;
+    padding: 20px;
+    border: 5px solid orangered;
+    width: 500px;
+}
+.forget{
+	text-align: right;
+}
+.page-header{
+    background-color: orange;
+    padding-top: 1px;
+    color: white;
+}
+.dash-crd{
+    margin: 50px;
+    border: 2px solid orangered;
+}
+.dash-tbl {
+    margin: 20px;
+}
+.dash-tbl div{
+    height: 25%vw;
+    width: 25vw;
+    text-align: center;
+    background-color:moccasin;
+    padding: 50px;
+    margin-right: 20px;
+
+}
+table tr td,th{
+    padding-bottom: 5px;
+    padding-right: 50px;
+}
+.success{
+    color: green;
+}
+.dangr{
+    color: red;
+}
+
+
+
+footer div center{
+	background-color: black;
+	color: white;
+	padding: 0.5%;
+    bottom: -1px;
+}

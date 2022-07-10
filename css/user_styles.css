@@ -1,0 +1,50 @@
+body{
+	background-color: antiquewhite;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+}
+header center h1{
+	color:cornflowerblue;
+}
+
+.news{
+	color: darkred;
+}
+footer div center{
+	background-color: black;
+	color: white;
+	padding: 0.5%;
+}
+.login{
+	background-color: lightskyblue;
+	margin: 25px auto;
+    padding: 20px;
+    border: 5px solid cornflowerblue;
+    width: 500px;
+}
+aside {
+    width: 20%;
+    font-style: italic;
+}
+#links ul li{
+	list-style: none;
+	
+}
+#links ul li>a{
+	text-decoration: none;
+	color: black;
+}
+#links ul li>a:hover{
+	color:darkturquoise;
+	font-weight: bold;
+}
+
+
+
+.forget{
+	text-align: right;
+}
